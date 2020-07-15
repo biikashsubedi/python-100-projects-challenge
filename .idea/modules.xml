@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/python 100 project.iml" filepath="$PROJECT_DIR$/.idea/python 100 project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django-projects/recipe-app-api/.idea/recipe-app-api.iml" filepath="$PROJECT_DIR$/../django-projects/recipe-app-api/.idea/recipe-app-api.iml" />
     </modules>
   </component>
 </project>
