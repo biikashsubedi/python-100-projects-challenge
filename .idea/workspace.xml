@@ -20,13 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="191ca79f-84e4-424a-8846-f88621829b22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../django-projects/recipe-app-api/app/core/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10. Determine triangle or not/project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8. Calculate mass, density and volume/project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9. Determine quadrant of a point/project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python 100 project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python 100 project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11. Checking leap year/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12. Checking a point belongs to circle/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Creating quadratic equation/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14. Making ques of random number/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Print out the ASCII table/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16. Creating multiplication table using for loop/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Creating multiplication table using while loop/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18. Converting from base 2 to 9/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Build a simple calculator/project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20. Numbers of digits in integer/project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_12_20,_8_04_AM_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_7_12_20__8_04_AM__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +60,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -62,7 +68,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.project (2)">
+  <component name="RunManager" selected="Python.project (4)">
     <configuration name="project (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python 100 project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,12 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9. Determine quadrant of a point" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/13. Creating quadratic equation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9. Determine quadrant of a point/project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13. Creating quadratic equation/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10. Determine triangle or not" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14. Making ques of random number" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Determine triangle or not/project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14. Making ques of random number/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Creating Calender" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12. Checking a point belongs to circle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Creating Calender/project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12. Checking a point belongs to circle/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7. Creating Calender" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. Print out the ASCII table" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7. Creating Calender/project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. Print out the ASCII table/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="project (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python 100 project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/8. Calculate mass, density and volume" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11. Checking leap year" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8. Calculate mass, density and volume/project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11. Checking leap year/project.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.project (4)" />
         <item itemvalue="Python.project (2)" />
         <item itemvalue="Python.project (1)" />
-        <item itemvalue="Python.project (5)" />
-        <item itemvalue="Python.project (4)" />
         <item itemvalue="Python.project (3)" />
+        <item itemvalue="Python.project" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +205,13 @@
       <workItem from="1594519500280" duration="1098000" />
       <workItem from="1594676479479" duration="84000" />
       <workItem from="1594725244357" duration="1105000" />
-      <workItem from="1594772572075" duration="3217000" />
+      <workItem from="1594772572075" duration="3499000" />
+      <workItem from="1594825040950" duration="4310000" />
+      <workItem from="1594886069307" duration="5849000" />
+      <workItem from="1594915116222" duration="3213000" />
+      <workItem from="1594961177623" duration="3136000" />
+      <workItem from="1594983724934" duration="150000" />
+      <workItem from="1595379120400" duration="1119000" />
     </task>
     <task id="LOCAL-00001" summary="Adding Upto 7 Projects">
       <created>1594520356345</created>
@@ -228,44 +240,51 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Upto 7 Projects" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Upto 7 Projects" />
+    <MESSAGE value="adding project upto 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding project upto 10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="519" y="210" width="318" height="377" key="FileChooserDialogImpl" timestamp="1594725264176">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="519" y="210" width="318" height="377" key="FileChooserDialogImpl/0.23.1366.745@0.23.1366.745" timestamp="1594725264176" />
-    <state width="1328" height="397" key="GridCell.Tab.0.bottom" timestamp="1594775809659">
+    <state width="1328" height="292" key="GridCell.Tab.0.bottom" timestamp="1595379620256">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1328" height="397" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1594775809659" />
-    <state width="1328" height="397" key="GridCell.Tab.0.center" timestamp="1594775809658">
+    <state width="1328" height="292" key="GridCell.Tab.0.bottom/0.23.1366.745@0.23.1366.745" timestamp="1595379620256" />
+    <state width="1328" height="292" key="GridCell.Tab.0.center" timestamp="1595379620254">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1328" height="397" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1594775809658" />
-    <state width="1328" height="397" key="GridCell.Tab.0.left" timestamp="1594775809657">
+    <state width="1328" height="292" key="GridCell.Tab.0.center/0.23.1366.745@0.23.1366.745" timestamp="1595379620254" />
+    <state width="1328" height="292" key="GridCell.Tab.0.left" timestamp="1595379620253">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1328" height="397" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1594775809657" />
-    <state width="1328" height="397" key="GridCell.Tab.0.right" timestamp="1594775809659">
+    <state width="1328" height="292" key="GridCell.Tab.0.left/0.23.1366.745@0.23.1366.745" timestamp="1595379620253" />
+    <state width="1328" height="292" key="GridCell.Tab.0.right" timestamp="1595379620255">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state width="1328" height="397" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1594775809659" />
+    <state width="1328" height="292" key="GridCell.Tab.0.right/0.23.1366.745@0.23.1366.745" timestamp="1595379620255" />
     <state x="296" y="118" width="773" height="562" key="SettingsEditor" timestamp="1594519990217">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="296" y="118" width="773" height="562" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1594519990217" />
-    <state x="378" y="190" width="600" height="417" key="Vcs.Push.Dialog.v2" timestamp="1594520374253">
+    <state x="378" y="190" width="600" height="417" key="Vcs.Push.Dialog.v2" timestamp="1594776022312">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
-    <state x="378" y="190" width="600" height="417" key="Vcs.Push.Dialog.v2/0.23.1366.745@0.23.1366.745" timestamp="1594520374253" />
+    <state x="378" y="190" width="600" height="417" key="Vcs.Push.Dialog.v2/0.23.1366.745@0.23.1366.745" timestamp="1594776022312" />
+    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup" timestamp="1594915660673">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="429" y="185" width="505" height="399" key="search.everywhere.popup/0.23.1366.745@0.23.1366.745" timestamp="1594915660673" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_100_project$project__1_.coverage" NAME="project (1) Coverage Results" MODIFIED="1594775008763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9. Determine quadrant of a point" />
-    <SUITE FILE_PATH="coverage/python_100_project$project__4_.coverage" NAME="project (4) Coverage Results" MODIFIED="1594772766622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7. Creating Calender" />
-    <SUITE FILE_PATH="coverage/python_100_project$project.coverage" NAME="project Coverage Results" MODIFIED="1594519997668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5. convert celsius to fahrenheit" />
-    <SUITE FILE_PATH="coverage/python_100_project$project__2_.coverage" NAME="project (2) Coverage Results" MODIFIED="1594775799799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10. Determine triangle or not" />
-    <SUITE FILE_PATH="coverage/python_100_project$project__3_.coverage" NAME="project (3) Coverage Results" MODIFIED="1594520274529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Creating Calender" />
+    <SUITE FILE_PATH="coverage/python_100_project$Unittests_for_test_admin_AdminSiteTest.coverage" NAME="Unittests for test_admin.AdminSiteTest Coverage Results" MODIFIED="1594917911740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../django-projects/recipe-app-api/app/core/tests" />
+    <SUITE FILE_PATH="coverage/python_100_project$project__1_.coverage" NAME="project (1) Coverage Results" MODIFIED="1594963090537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13. Creating quadratic equation" />
+    <SUITE FILE_PATH="coverage/python_100_project$Unittests_for_test_models_ModelTests_test_create_user_with_email_successful.coverage" NAME="Unittests for test_models.ModelTests.test_create_user_with_email_successful Coverage Results" MODIFIED="1594826494456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../django-projects/recipe-app-api/app/core/tests" />
+    <SUITE FILE_PATH="coverage/python_100_project$project__4_.coverage" NAME="project (4) Coverage Results" MODIFIED="1595379611518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. Print out the ASCII table" />
+    <SUITE FILE_PATH="coverage/python_100_project$project.coverage" NAME="project Coverage Results" MODIFIED="1594961509375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11. Checking leap year" />
+    <SUITE FILE_PATH="coverage/python_100_project$project__2_.coverage" NAME="project (2) Coverage Results" MODIFIED="1595379462137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14. Making ques of random number" />
     <SUITE FILE_PATH="coverage/python_100_project$project__5_.coverage" NAME="project (5) Coverage Results" MODIFIED="1594774180816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Calculate mass, density and volume" />
+    <SUITE FILE_PATH="coverage/python_100_project$project__3_.coverage" NAME="project (3) Coverage Results" MODIFIED="1594961977405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12. Checking a point belongs to circle" />
   </component>
 </project>
